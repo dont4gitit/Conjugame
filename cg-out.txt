@@ -1,0 +1,34 @@
+Conjugue -- conjugador de verbos para a língua portuguesa
+versão 1.1 (outubro de 99) por Ricardo Ueda Karpischek
+envie correções, críticas ou sugestões para ueda@ime.usp.br.
+
+Use por sua própria conta e risco.
+
+Tanto o programa quanto o banco de verbos que o acompanha
+são distribuídos sob os termos da licença GNU GPL. Isso
+significa que podem ser livremente copiados e que trabalhos
+derivados devem também ser disponibilizados através dessa
+mesma licença.
+
+"?" exibe um pequeno guia de utilização.
+"n" exibe algumas notas importantes.
+
+aguarde o término da leitura do banco...
+lidos 87 paradigmas
+lidos 3980 verbos
+: # paradigma: cair (irregular)
+# regular em 2 casos
+IS:saísse:saísses:saísse:saíssemos:saísseis:saíssem
+FI:sairei:sairás:sairá:sairemos:saireis:sairão
+TI:sairia:sairias:sairia:sairíamos:sairíeis:sairiam
+II:saía:saías:saía:saíamos:saíeis:saíam
+FN:sair:saindo:saído
+PS:saia:saias:saia:saiamos:saiais:saiam
+MI:saíra:saíras:saíra:saíramos:saíreis:saíram
+IN:saias:saia:saiamos:saiais:saiam
+IA:sai:saia:saiamos:saí:saiam
+FS:sair:saíres:sair:sairmos:sairdes:saírem
+PI:saio:sais:sai:saímos:saís:saem
+IP:sair:saíres:sair:sairmos:sairdes:saírem
+EI:saí:saíste:saiu:saímos:saístes:saíram
+: 
