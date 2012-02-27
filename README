@@ -1,7 +1,5 @@
-This project is based on the free software "conjugue" developed  by Ricardo Ueda Karpischek to conjugate 
-Brazilian Portuguese verbs which is available in Ubuntu as a package called "brazilian-conjugate". Some 
+This project is based on the free software "conjugue" developed  by Ricardo Ueda Karpischek to conjugate Brazilian Portuguese verbs which is available in Ubuntu as a package called "brazilian-conjugate". Some 
 ideas may also be derived from Jakson Aquino's GTK GUI for conjugue, GConjugue.
 
-There will be two branches, one based on Pyside, the other on Pygame. In future, they may be merged, 
-or one may be abandoned as unfeasible.
+There will be two branches, one using Pyside, the other using Pygame. In future, they may be merged, or one may be abandoned as unfeasible.
 
